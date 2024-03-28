@@ -1,0 +1,11 @@
+{
+  "bordro": "SUBAT 2020",
+  "personel": {
+    "ismi": "Mehmet Çifçi",
+    "calismaSaati": 200.0,
+    "odemeDetaylari": {
+      "anaOdeme": "?101000,00",
+      "toplamOdeme": "?101000,00"
+    }
+  }
+}

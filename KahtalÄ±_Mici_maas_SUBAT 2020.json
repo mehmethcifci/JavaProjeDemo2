@@ -1,0 +1,11 @@
+{
+  "bordro": "SUBAT 2020",
+  "personel": {
+    "ismi": "Kahtalı Mici",
+    "calismaSaati": 200.0,
+    "odemeDetaylari": {
+      "anaOdeme": "?115000,00",
+      "toplamOdeme": "?115000,00"
+    }
+  }
+}

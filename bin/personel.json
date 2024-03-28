@@ -1,0 +1,32 @@
+[
+    {
+    "name": "Fatih",
+    "surname": "Alkan",
+    "role": "Yonetici"
+    },
+    {
+    "name": "Beyazıt",
+    "surname": "Dalgıç",
+    "role": "Memur"
+    }
+    {
+    "name": "Mehmet",
+    "surname": "Çifçi",
+    "role": "Yonetici"
+    },
+    {
+    "name": "Mahmut",
+    "surname": "Tuncer",
+    "role": "Memur"
+    },
+    {
+    "name": "Mehmet Ali",
+    "surname": "Erbil",
+    "role": "Yonetici"
+    },
+    {
+    "name": "Kahtalı",
+    "surname": "Mici",
+    "role": "Memur"
+    }
+    ]
