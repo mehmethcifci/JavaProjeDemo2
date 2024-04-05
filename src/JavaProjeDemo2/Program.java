@@ -11,8 +11,8 @@ public class Program {
         String monthYear = "SUBAT 2020"; // Bordro ayi ve yili
         List<Personel> azCalisanlar = maasBordro.generatePayroll(personelList, monthYear);
 
-        System.out.println("Maaþ bordrosu oluþturuldu ve kaydedildi.");
-        System.out.println("Az çalýþanlar:");
+        System.out.println("Maas bordrosu olusturuldu ve kaydedildi.");
+        System.out.println("Az calisanlar:");
         maasBordro.printSummary(azCalisanlar);
     }
 }
