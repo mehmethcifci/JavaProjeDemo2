@@ -1,8 +1,8 @@
 package JavaProjeDemo2;
 
 public abstract class Personel {
-	protected String name;
-    protected String surname;
+	String name;
+   	String surname;
 
     public Personel(String name, String surname) {
         this.name = name;
